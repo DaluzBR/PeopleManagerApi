@@ -1,0 +1,171 @@
+
+  {
+    "firstName": "Silvio",
+    "lastName": "Brito",
+    "cpf": "174.094.882-39",
+    "birthDate": "12-02-1982",
+    "phones": [
+      {
+        "type": "HOME",
+        "number": "55021999990001"
+      }
+    ],
+    "bootcamps": [
+      {
+        "name": "Java Development",
+        "duration": "120"
+      }
+    ]
+  }
+//****************************************
+  {
+    "firstName": "Roberto",
+    "lastName": "Carlos",
+    "cpf": "455.171.152-79",
+    "birthDate": "25-03-1983",
+    "phones": [
+      {
+        "type": "MOBILE",
+        "number": "55021999990002"
+      }
+    ],
+    "bootcamps": [
+      {
+        "name": "everis Site Reliability Engineer Essentials",
+        "duration": "72"
+      }
+    ]
+  }
+//****************************************
+  {
+    "firstName": "Fernando",
+    "lastName": "Mendes",
+    "cpf": "023.987.987-36",
+    "birthDate": "01-09-1992",
+    "phones": [
+      {
+        "type": "MOBILE",
+        "number": "55021999990003"
+      }
+    ],
+    "bootcamps": [
+      {
+        "name": "Cognizant Cloud Data Engineer",
+        "duration": "100"
+      }
+    ]
+  }
+//****************************************
+  {
+    "firstName": "Raul",
+    "lastName": "Seixas",
+    "cpf": "203.465.798-41",
+    "birthDate": "17-11-2001",
+    "phones": [
+      {
+        "type": "COMMERCIAL",
+        "number": "55021999990004"
+      }
+    ],
+    "bootcamps": [
+      {
+        "name": "Python Developer",
+        "duration": "140"
+      }
+    ]
+  }
+//****************************************
+  {
+    "firstName": "Emílio",
+    "lastName": "Santiago",
+    "cpf": "147.369.798-32",
+    "birthDate": "25-08-1998",
+    "phones": [
+      {
+        "type": "HOME",
+        "number": "55021999990005"
+      }
+    ],
+    "bootcamps": [
+      {
+        "name": "Curso Rest com NodeJS: API com Express e MySQL",
+        "duration": "240"
+      }
+    ]
+  }
+//****************************************
+  {
+    "firstName": "Edson",
+    "lastName": "Gomes",
+    "cpf": "257.365.694-56",
+    "birthDate": "14-12-1996",
+    "phones": [
+      {
+        "type": "MOBILE",
+        "number": "55021999990006"
+      }
+    ],
+    "bootcamps": [
+      {
+        "name": "Curso PHP: Dominando as Collections",
+        "duration": "190"
+      }
+    ]
+  }
+//****************************************
+  {
+    "firstName": "Elza",
+    "lastName": "Soares",
+    "cpf": "456.258.471-98",
+    "birthDate": "27-03-1985",
+    "phones": [
+      {
+        "type": "HOME",
+        "number": "55021999990007"
+      }
+    ],
+    "bootcamps": [
+      {
+        "name": "Curso C#: do básico ao avançado",
+        "duration": "150"
+      }
+    ]
+  }
+//****************************************
+  {
+    "firstName": "Sandra",
+    "lastName": "Sá",
+    "cpf": "456.258.471-98",
+    "birthDate": "27-03-1985",
+    "phones": [
+      {
+        "type": "HOME",
+        "number": "55021999990008"
+      }
+    ],
+    "bootcamps": [
+      {
+        "name": "Curso Kotlin para Android",
+        "duration": "110"
+      }
+    ]
+  }
+//****************************************
+  {
+    "firstName": "Serguei",
+    "lastName": "Nikiforov",
+    "cpf": "456.258.471-98",
+    "birthDate": "27-03-1985",
+    "phones": [
+      {
+        "type": "HOME",
+        "number": "55021999990009"
+      }
+    ],
+    "bootcamps": [
+      {
+        "name": "Curso Cobol: Primeiros Passos",
+        "duration": "145"
+      }
+    ]
+  }
